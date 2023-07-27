@@ -1,7 +1,7 @@
 # The Met Landing
 The necessary links:
     [DEMO LINK](https://katerynashylina.github.io/the_met_landing/), 
-    [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
+    [Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?type=design&node-id=8590-29&mode=design)
 
  This is the landing for the The Metropolitan Museum of Art based in New York. You can check out opening hours to plan your visit. Immerse yourself in visuals and explore captivating online exhibitions from the comfort of your home.
  
