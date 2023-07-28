@@ -14,8 +14,11 @@
     height: 100vh;
 
     @include onPhone {
-      padding-top: 24px;
-      padding-right: 9px;
+      padding: 24px 0 288px;
+    }
+
+    @include onTablet {
+      padding: 24px 0 288px;
     }
     
     @include onDesktop {

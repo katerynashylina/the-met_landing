@@ -21,7 +21,7 @@
     @include top-actions;
 
     @include onDesktop {
-      padding: 0 50px;
+      padding: 0 54px;
     }
   }
 
@@ -36,11 +36,9 @@
     }
 
     @include onDesktop {
-      gap: 64px;
+      gap: 59px;
     }
   }
-
-  
 
   &__title {
     text-align: center;
